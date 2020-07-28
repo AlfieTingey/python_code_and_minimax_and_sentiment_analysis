@@ -1,0 +1,2 @@
+# python_code_and_minimax_and_sentiment_analysis
+Here is some examples of code I have written in Python for fun including games, sentiment analysis and mapping. In one folder we have scripts that create the battleships game. In another, we have a script where a user can play against an AI in tic tac toe, where the AI is very good as it follows the minimax algorithm. In another folder we have scripts for learning whether movie reviews are good or bad, and also a script that maps the london tube stations and their connections in code. 
